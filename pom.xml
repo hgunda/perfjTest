@@ -4,7 +4,6 @@
   <artifactId>perfjTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SamplePerfPOC</name>
-  
   <dependencies>
   <dependency>
         <groupId>org.perf4j</groupId>
